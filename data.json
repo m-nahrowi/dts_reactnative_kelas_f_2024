@@ -1,11 +1,14 @@
 {
-    "data":[
-        {"name":"Rachmad Irawan",
-          "city":"Surabaya",
-          "linkin":"git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
-        },
-        {
-         
-        }
-    ]
+  "data": [
+    {
+      "name": "Rachmad Irawan",
+      "city": "Surabaya",
+      "linkin": "git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
+    },
+    {
+      "name": "Rachmad Irawan 2",
+      "city": "Surabaya 2",
+      "linkin": "git@github.com:rachmadirawan/dts_reactnative_kelas_f_2024.git"
+    }
+  ]
 }
